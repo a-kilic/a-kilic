@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Arda
 
-I'm a **Frontend Developer** enthusiastic about building clean, responsive, and user-friendly web interfaces. I focus on creating performant applications with modern JavaScript frameworks like React and styling with Tailwind CSS.
 
+I’m a Frontend Developer working with React and other cool web technologies. Outside of coding, I’m into video games and watching anime.
 ---
 
 # 💻 Tech Stack:
