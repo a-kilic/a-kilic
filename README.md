@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Arda]
+# Hi there! 👋 I'm Arda
 
 I'm a **Frontend Developer** enthusiastic about building clean, responsive, and user-friendly web interfaces. I focus on creating performant applications with modern JavaScript frameworks like React and styling with Tailwind CSS.
 
