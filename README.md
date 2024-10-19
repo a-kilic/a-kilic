@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Arda
 
 
-I’m a Frontend Developer working with React and other cool web technologies. Outside of coding, I’m into video games and watching anime.
+I’m a **Frontend Developer** working with React and other cool web technologies. Outside of coding, I’m into video games and watching anime.
+
 ---
 
 # 💻 Tech Stack:
